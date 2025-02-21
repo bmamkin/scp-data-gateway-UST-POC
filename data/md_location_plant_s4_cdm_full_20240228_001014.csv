@@ -1,0 +1,35 @@
+﻿unique ID ,Location Name ,Street,City,state-province ,Country,Postal Code
+0001,Werk 0001,Neurottstrass 16,Walldorf,,DK,69190
+0002,Werk 0002,,,,US,
+0003,Plant 0003 (is-ht-sw),123 main street,palo alto,CA,US,94070
+1010,Plant 1 DE,Neurottstr. 16,Walldorf,BW,DK,69190
+1310,,,,,DK,
+1710,Plant 1 US,3475 Deer Creek,Palo Alto,CA,US,94304-1355
+1711,Plant 1 US,3475 Deer Creek,Palo Alto,CA,US,94304-1355
+1712,Plant 2 US,3475 Mesa St,El Paso,TX,US,79905
+1810,Plant 1 IN,148 Whitefield,Bengaluru,10,IN,560048
+1811,Plant 2 IN,205 Kulathoor,Thiruvananthapuram,11,IN,695583
+1812,Plant 3 IN,305 Thigalarapalya,Bengaluru,10,IN,560066
+1815,IN-PI Plant 1,148 Whitefield,Bengaluru,10,IN,560048
+1816,IN-PI Plant 2,205 Kulathoor,Thiruvananthapuram,11,IN,695583
+2006,SH,,,,,
+2021,El Salvador Textiles/Garment D,Km 34. Carretera a San J Lote,"San Juan Opico, La Libert",LI,SV,1514
+302M,Finished Goods,"Manhly Road, Dueohj Street",,,MY,89015
+5001,Werk 0001,"2nd street, Park Avenue",,NY,US,34567
+AH01,Test AH plant,3475 Deer Creek,Palo Alto,CA,US,94304-1355
+ATL1,Atlanta,14th Street,Atlanta,GA,US,30309
+AWP,AWP - Plant,,Atlanta,GA,US,30324
+HP01,HP Plant 1,3475 Deer Creek,Palo Alto,CA,US,94304-1355
+HP02,HP Plant 2,3475 Deer Creek,Palo Alto,CA,US,94304-1355
+IBP1,IBP Demo Plant,5 Polaris Way,Aliso Viejo,CA,US,92656
+MT01,US Milpitas Plant,3475 Deer Creek,Palo Alto,CA,US,94304-1355
+MT02,US Chicago Plant,,Naperville,IL,US,60564
+MT03,Substitution plantPlant,,Naperville,IL,US,60564
+MT04,Substitution plantPlant,,Naperville,IL,US,60564
+PK01,Kenya,,,,DE,
+PLT1,Test Plant 1,Test House,Test city,,IN,123456
+PN01,Penang Plant,"Level 2, Mini circuit Building",,07,MY,11900
+TB01,US Palo Alto Plant,3475 Deer Creek,Palo Alto,CA,US,94304-1355
+TB02,US San Jose Plant,1000 Meridian Ave,San Jose,CA,US,95118
+Z001,Werk 0001,Neurottstrass 16,Walldorf,,DK,69190
+Z002,Werk 0001,Neurottstrass 16,Walldorf,,DK,69190

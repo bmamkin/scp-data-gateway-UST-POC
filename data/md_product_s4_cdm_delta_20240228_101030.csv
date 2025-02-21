@@ -1,0 +1,4 @@
+﻿productNumber,type,materialGroup,description,defaultUnitOfMeasure,basicMaterial,division,externalMaterialGroup,Size,transportationGroup,productHierarchy,validFromDate,deletionDate,materialCategory,dateOfCreation,nameOfPersonWhoCreatedObject,dateOfLastChange,nameOfPersonWhoChangedObject,brand,internalCharacteristic,characteristicValue,internalCharacteristic,characteristicValue,internalCharacteristic,characteristicValue
+AATP10,FERT,L010,AATP Demo Scenario 10,EA,,00,,,0001,,20231103,99991231,,20231103,YCORZINE,20231130,TECHNICAL1,,,,,,,
+MTAMC2,FERT,L004,SKU AMC3,EA,,AA,,,0001,,20220915,99991231,,20220915,MTHEKINIATH,20220915,MTHEKINIATH,,,,,,,
+LS00501-0001,KMAT,,00501-0001 JEANS,EA,LS005010001,00,,,,,20190801,99991231,,20190801,DWILHELMI,20190909,DWILHELMI,,BRAND,LEVIS,CONSUMER,MENS,CATEGORY,BOTTOMS
