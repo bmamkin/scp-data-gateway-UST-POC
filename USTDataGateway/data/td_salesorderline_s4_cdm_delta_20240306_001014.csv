@@ -1,6 +1,0 @@
-﻿uid,lineNumber,productId,orderItemCategory,highLevelItemInBOM,customerPOnumber,itemPurchasingDocument,deliveryGroup,lineValue,valueCurrency,quantity,quantityShipped,deliveryPriority,shiptoLocationID,orderplaceddate,changeorderdate,status,Independent Or Dependent,Component,requestedShipDate,requestedDeliveryDate,orderActualDeliveryDate,salesOrganization,salesRegion,salesDistributionChannel,quoteNumber,opportunityID,orderLineShipTo,salesOrderSourceSystem
-15547,10,MTAMC2,ZTAN,0,Subbatest1,10,0,600.15,USD,50.000,40.000,2,MT01,20221116,20231128,B,I,,20221115,20231115,20231128,MT01,AA,AA,,,1000272,S4
-15783,10,AATP10,ZTAN,0,"aATP # 9, PO ST - He Test",,0,25.00,USD,3.000,,2,MT01,20231109,20231117,R,I,,20231113,20231109,,MT01,AA,AA,20000107,,1000130,S4
-15783,20,AATP9,ZTAN,0,"aATP # 9, PO ST - He",,0,15.00,USD,2.000,2.000,2,MT01,20231114,20231117,C,I,,20231117,20231115,20231117,MT01,AA,AA,,,1000130,S4
-15783,30,AATP9,ZTAN,0,"aATP # 9, PO ST - He",,0,10.00,USD,4.000,,2,MT01,20231115,20231117,A,I,,20231129,20231130,,MT01,AA,AA,,,1000130,S4
-15785,10,AATP9,ZTAN,0,aATP PO ST - Rejection,,0,15.00,USD,5.000,,2,MT01,20231114,20231114,R,I,,20231115,20231109,,MT01,AA,AA,,,1000130,S4
