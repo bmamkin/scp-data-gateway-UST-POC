@@ -1,0 +1,151 @@
+﻿unique ID ,Location Name ,Street,City,state-province ,Country,Postal Code
+1,ARRIS TECHNOLOGY INC,8 TECHNOLOGY DR,WESTBOROUGH,MA,US,01581-1756
+6,ACME BROADBAND SOLUTIONS,,HORSHAM,,US,19044-3603
+7,ARRIS BROADBAND SOLUTIONS,,HORSHAM,PA,US,19044-3603
+11,Antonio Neri,3000 Hanover Street,Palo Alto,CA,US,34301
+16,Sebastian & Co,Muttada,Kerala,11,IN,695008
+17,Sebastian & Co,Muttada,Kera,11,IN,695008
+18,Bala Mohan,Kochi,Kochi,11,IN,695001
+21,Sadasivan Logistics Ltd,"101,Electronic City",Bangalore,10,IN,560068
+26,Wallmart_Canada,,Kochi,11,IN,400102
+31,Aruvi Supply Logistics,"Electronic City in Hosur",Hosur,10,IN,635109
+36,Gobierno del Estado,,Quito,,EC,283830
+37,abc def,,abc,,IN,123456
+38,abc def,,pu,,IN,121212
+39,abc def,,pu1,,IN,121213
+40,abc def,,pu1,,IN,121213
+41,abc def,,pu1,,IN,121213
+42,abc def,,pu1,,IN,121213
+43,abc def,,pu1,,IN,121213
+44,abc def,,pu1,,IN,121213
+45,abc def,,pu1,,IN,121213
+146,Lg electronics,acme street,Alabama,,US,99999
+1000000,VAN 0004,"12345 111, APPLE STREET, BLV, 23412",RICHMOND,CA,US,90991
+1000001,THOMINATH SAEEDA,AL KHALEEJ الخليج,Riyadh,,SA,19090
+1000040,ARRIS BROADBAND SOLUTIONS,Test1,HORSHAM,,US,19044-3603
+1000050,ARRIS TECHNOLOGY INC,Test1,WESTBOROUGH,MA,US,01581-1756
+1000060,MSC Technologies GmbH,Industriestraße 16,Stutensee,,DK,76297
+1000080,ARRIS Group Inc,Test1,HORSHAM,PA,US,19044-3603
+1000081,ARRIS TECHNOLOGY INC,Test1,HORSHAM,PA,US,19044-3603
+1000090,Microsoft,Test1,Milpitas,CA,US,95035
+1000101,HPE RSP1,Test1,Irvine,CA,US,92612
+1000110,Santoyo Macuarro,,Palo Alto,CA,US,94304
+1000122,Serapio Joso,,El Paso,TX,US,79905
+1000130,Costco,,Chicago,IL,US,60007
+1000131,Sams Club,,Houston,TX,US,77070
+1000140,HP Customer,,San Jose,CA,US,95125
+1000141,HP Customer,,San Jose,CA,US,95125
+1000150,Aero Trader,2985 S STATE HIGHWAY 360,Grand Prairie,TX,US,75052
+1000151,Textron Aviation,285 S GREENWICH RD,WICHITA,KS,US,67207
+1000171,Callaway Golf,2180 Rutherford Rd,"Rutherford Rd, Carlsbad",CA,US,92008
+1000202,Wallmart_Australia,,Kochi,11,IN,400102
+1000203,Wallmart_US,,Kochi,11,IN,400102
+1000250,Swift Apple Retailer,,Penang,,MY,47120
+1000251,Roche Malaysia,"Persiaran Laggon, Bandar Sunway",Subang Jaya,SEL,MY,47500
+1000252,II-VI,Kinta Free Industrial Zone,Ipoh,PER,MY,31200
+1000270,AMC CUST1,,Milpitas,CA,US,95035
+1000271,AMC CUST2,,Milpitas,CA,US,95035
+1000272,AMC CUST3,,Milpitas,CA,US,95035
+1000273,AMC CUST4,,Milpitas,CA,US,95035
+1000274,AMC CUST5,,Milpitas,CA,US,95035
+1000280,Maurya,,Bangalore,,IN,560037
+10100001,Inlandskunde DE 1,Lindenstraße 2,Schöntal,BW,DK,74214
+10100002,Inlandskunde DE 2,Platnerstraße 45,Chemnitz,SN,DK,09119
+10100003,Inlandskunde DE 3,Römerstraße 1230,Budenheim,RP,DK,55257
+10100004,Inlandskunde DE 4,Lahnbergweg 23,Wetzlar,HE,DK,35578
+10100005,Inlandskunde DE 5 (CMS),Heinrichstraße 1020,Steinhagen,NW,DK,33803
+10100006,Inlandskunde DE 6 (Retouren),Holstenstraße 1142,Hamburg,HH,DK,22767
+10100007,"Inland-Lohnbearbeiter A , DE",Hauptstraße 12,Alleringersleben,ST,DK,39343
+10100008,Inlandskunde DE 8,Lahnbergweg 83,Wetzlar,HE,DK,35578
+10100009,Inlandskunde DE 9,Lahnbergweg 93,Wetzlar,HE,DK,35578
+10100011,SAP SE,Dietmar-Hopp-Allee 7,Walldorf,BW,DK,69190
+10100050,Ausländischer Kunde 50 (US),15400 Confederate Ave,Baton Rouge,LA,US,70817-3609
+10100051,Ausländischer Kunde 51 (FR),60 Rue de Belfort,Bordeaux,33,FR,33063
+10100060,Foreign DE Customer 60 (HU),Gellért Irodaház 800,Budapest,,HU,2030
+10100100,Inlandskunde DE 100 (SEPA),Lohmeyerstraße 1420,Saarbrücken,SL,DK,66119
+10100273,GM MTRS INC,,WICHIT,03,DK,67208
+10200001,Euro Cleaning Services,1139 Váci út 71 60,Budapest,,HU,1032
+12345678,Cust,,Mountain View,,US,94043-1315
+17100001,Domestic US Customer 1,200 Augusta Ave SE,Atlanta,GA,US,30315-1402
+17100002,Landscape Vista,15 N 4th Ave,Chula Vista,CA,US,91910-1007
+17100003,Domestic Customer US 3,100 Boundary Rd,Houma,LA,US,70363-5455
+17100004,Domestic Customer US 4,1 East 24th St,Kearney,NE,US,68847-5457
+17100005,Domestic US Customer 5 (CMS),1000 2nd Ave N,Billings,MT,US,59101-2614
+17100006,Domestic Customer US 6 (Returns),100 S Main St,Wichita,KS,US,67202-3723
+17100007,Domestic US Subcontractor A,200 GILES RD,Blacksburg,VA,US,24060-7206
+17100008,Domestic US Customer 8,18 East 24th St,Kearney,NE,US,68847-5457
+17100009,Domestic US Customer 9,19 East 24th St,Kearney,NE,US,68847-5457
+17100011,SAP SE,3999 West Chester Pike,Newtown Square,PA,US,19073-1026
+17100050,Foreign Customer 50 (DE),Hauptstraße 1,Gerbrunn,BY,DK,97218
+17100051,Foreign Customer 51 (CA),3201 17 Ave E,Calgary,AB,CA,T1X 0L3
+17100100,Domestic US Customer Direct Debit,17 Caminito Pasadero,San Diego,CA,US,92128-1096
+17100273,Domestic US CPD,,WICHITA,,US,67208-2915
+18100001,Domestic IN Customer 1,"2 5th Block, 3rd Cross, Peenya Indu",Bangalore,10,IN,560099
+18100002,Domestic IN Customer 2,"45 5th Block, 3rd Cross, Peenya Ind",Bangalore,10,IN,560099
+18100003,Domestic IN Customer 3,400 Kandivli,Mumbai,13,IN,400101
+18100004,Domestic IN Customer 4,400 Kandivli,Mumbai,13,IN,400101
+18100005,Domestic IN Customer 5,1020 Kandivli,Mumbai,13,IN,400101
+18100006,Domestic IN Customer 6 (Return),400 Kandivli,Mumbai,13,IN,400101
+18100008,Domestic IN Customer 8,400 Kandivli Road,Mumbai,13,IN,400101
+18100011,Domestic IN Customer 11 (CMS Extend,Dietmar-Hopp-Allee,Mumbai,13,IN,691900
+18100012,FOREIGN CUSTOMER 1,Calle Sta. Leonor 65,Madrid,28,ES,28037
+18100013,FOREIGN CUSTOMER 2,12 MICHELLE,UTAH,UT,US,84103
+18100014,Domestic IN Customer 14,400 Kandivli road,Mumbai,MH,IN,400101
+18100016,Domestic IN Customer 16,100 Kandivli road,Mumbai,MH,IN,400101
+18100273,Domestic IN CPD,,Mumbai,13,IN,400101
+18300001,Domestic IN Supplier 1,"23 5th Block,Antop Hill",Mumbai,13,IN,400037
+18300007,Domestic IN Subcontractor,500 Kandivli salai,Mumbai,13,IN,400101
+18300010,Domestic IN Subcontractor,12 Kandivli,Mumbai,13,IN,400101
+AMR102,Ritu Sethu,"2 4h Block, Manipal County,Singasan",Bangalore,,IN,560099
+BP1010,WERK 1,Neurottstr. 16,Walldorf,BW,DK,69190
+BP1710,Plant 1,3475 Deer Creek,Palo Alto,CA,US,94304
+C40021471,Customer 40021471 Test,,Fairport,,US,14450
+CPQ_TEST,CPQ Test,,New York,,US,12345
+DA_CUST_1,DA's customer DA's_customer_LAST,123 Marder St,San Jose,,US,95123
+DA_CUST_1E,Feta Pluid Corporation,123 A St,Cupertino,CA,US,94090
+DA_CUST_2,I have None,,San Jose,,US,95123
+DA_CUST_2E,Marder Incorporated,123 Main St,Philadelphia,,US,19019
+DA_CUST_3E,Leo's Pet Shop,,Topeka,KS,US,66606
+EWM10-CU01,EWM-Kunde 01 (Inland),Knautnaundorfer Straße 204,Leipzig,SN,DK,04249
+EWM10-CU02,EWM-Kunde 02 (Inland),Rondenburg 12,Hamburg,HH,DK,22525
+EWM10-CU03,EWM-Kunde 03 (Inland),Balaustraße 75,München,BY,DK,81514
+EWM17-CU01,EWM Domestic Customer 01,500 Main Street,Atlanta,GA,US,30344
+EWM17-CU02,EWM Domestic Customer 02,100 Piedmont Avenue Southeast,Atlanta,GA,US,30344
+EWM17-CU03,EWM Domestic Customer 03,800 Sand Hill Road,Palo Alto,CA,US,94304
+LS-AMAZON,Amazon,349 Amazing Way,New York,NY,US,28945
+LS-JCP,JC Penney's,2389 Homewood Drive,Rhode Island,RI,US,57893
+LS-MACYS,Macy's,123 Macron Rd,Long Beach Island,NJ,US,79678
+MT01,MT01 Plant,,Milpitas,CA,US,95035
+MT02,MT02 Plant,,Irvine,CA,US,95035
+TEST 01 AH,Test Customer 01,123 Palo Alto,Palo Alto,,US,94000
+USCU_L01,Skymart Corp,,New york,NY,US,10007
+USCU_L02,Toys4U,,Wilmington,DE,US,19801
+USCU_L03,Viadox,,Baltimore,MD,US,21202
+USCU_L04,Quotex,,RALEIGH,NC,US,27603
+USCU_L05,Bluestar Corp,,CHARLESTON,SC,US,29401
+USCU_L06,Dexon,,NASHVILLE,TN,US,37201
+USCU_L07,Interlude Inc,,MIAMI,FL,US,33128
+USCU_L08,Veracity,,ATLANTA,GA,US,30303
+USCU_L09,Bigmart,,DETROIT,MI,US,48226
+USCU_L10,CostClub,,PUBLIC SQUARE,OH,US,44114
+USCU_S01,Performance Bikes,,Pittsburgh,PA,US,15219
+USCU_S02,Custom Sports,,Boston,MA,US,02109
+USCU_S03,Eastside Bikes,,Greensburg,PA,US,15601
+USCU_S04,Fit Cycles,,PORTLAND,ME,US,04101
+USCU_S05,Greater Hartford Area,,HARTFORD,CT,US,06103
+USCU_S06,Hub & Spokes Inc,,MANHATTAN,NY,US,10017
+USCU_S07,Westend Cycles,,RALEIGH,NC,US,27603
+USCU_S08,Velocity Cycles,,CHARLESTON,SC,US,29401
+USCU_S09,Greenhigh Bikes,,NASHVILLE,TN,US,37201
+USCU_S10,Turbo Bikes,,MIAMI,FL,US,33128
+USCU_S11,Bike World,,ATLANTA,GA,US,30303
+USCU_S12,Century Cycles,,RICHMOND,VA,US,23218
+USCU_S13,Rolling Bike Shop,,MONTGOMERY,AL,US,36104
+USCU_S14,Cityscape Cycles,,CHICAGO,IL,US,60602
+USCU_S15,Northside Bikes,,DES MOINES,IA,US,50306
+USCU_S16,Gogo Bikes,,Milwaukee,WI,US,53202
+USCU_S17,Bikepros,,Minneapolis,MN,US,55432
+V100001,FOODTECH Inc,,SAN DIEGO,CA,US,90990
+VAN2,Van Cust 2,,SAN DIEGO,CA,US,90990
+VV0001,Van Cust 1,,SAN DIEGO,CA,US,90990
+VV0003,Van Cust 3,,SAN DIEGO,,US,90990
